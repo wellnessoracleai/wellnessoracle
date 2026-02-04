@@ -1503,3 +1503,6 @@
         .dark-mode ::-webkit-scrollbar-thumb:hover {
             background: var(--color-text-secondary);
         }
+        .accepterms{
+            text-decoration: none;
+        }
